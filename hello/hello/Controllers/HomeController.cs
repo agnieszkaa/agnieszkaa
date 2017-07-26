@@ -14,7 +14,7 @@ namespace hello.Controllers
         }*/
         public string Index ()
         {
-            return "hello world";
+            return "hello world!";
         }
 
         public ActionResult About()
